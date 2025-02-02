@@ -9,6 +9,7 @@ function myFunction() {
   else {
     console.log("User does not wish to share his/her information.");
   }
+  myFunction ()
 }
 
     
